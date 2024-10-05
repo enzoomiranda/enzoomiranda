@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enzoomiranda
-- 👀 I’m interested in learning the easy way
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning git/js/vscode
 - 📫 How to reach me: Teams - enzo.miranda01@fatec.sp.gov.br
 
